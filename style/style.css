@@ -1,3 +1,9 @@
 body{
     padding: 5px;
 }
+.form-section{
+    border-style: solid;
+}
+.form-section>form{
+    padding: 5px;
+}
